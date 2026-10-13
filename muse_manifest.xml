@@ -1,0 +1,558 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="leadershiptraininginstitute.org" resolutions="1x" timestamp="1678465628723">
+  <folder name="css">
+    <file name="site_global.css" crc="482636607"/>
+    <file name="master_b-master.css" crc="289218999" ref="testimonies:course-description:bio:contact-us:application:sign-up:what-we-believe-:products"/>
+    <file name="master_a-master.css" crc="4067421470" ref="index:doctrine:donate:retry:courses:about-us:thanks:thank-you:live---media"/>
+    <file name="testimonies.css" crc="3774485446" ref="testimonies"/>
+    <file name="course-description.css" crc="4181911650" ref="course-description"/>
+    <file name="index.css" crc="177723799" ref="index"/>
+    <file name="bio.css" crc="442104571" ref="bio"/>
+    <file name="contact-us.css" crc="4188044946" ref="contact-us"/>
+    <file name="doctrine.css" crc="3888839999" ref="doctrine"/>
+    <file name="application.css" crc="513979367" ref="application"/>
+    <file name="donate.css" crc="73796379" ref="donate"/>
+    <file name="sign-up.css" crc="475405140" ref="sign-up"/>
+    <file name="retry.css" crc="3963770036" ref="retry"/>
+    <file name="courses.css" crc="3910222237" ref="courses"/>
+    <file name="about-us.css" crc="4135103959" ref="about-us"/>
+    <file name="what-we-believe-.css" crc="4144690018" ref="what-we-believe-"/>
+    <file name="products.css" crc="301453113" ref="products"/>
+    <file name="thanks.css" crc="4233466526" ref="thanks"/>
+    <file name="thank-you.css" crc="4263271992" ref="thank-you"/>
+    <file name="live---media.css" crc="106107740" ref="live---media"/>
+  </folder>
+  <folder name="assets">
+    <file name="4.integrity.mp3" crc="456852909" seo="true" mt="1496794361000"/>
+    <file name="3.kingdom.mp3" crc="250421778" seo="true" mt="1587587600000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>thank-you:phone>about:phone>bio:phone>contact:phone>doctrine:phone>beliefs:phone>courses:phone>studies:phone>apply:phone>sign-up:phone>testimony:phone>give:phone>thanks:phone>retry:phone>products:tablet>index:tablet>thank-you:tablet>about-us:tablet>bio:tablet>contact-us:tablet>doctrine:tablet>what-we-believe-:tablet>courses:tablet>course-description:tablet>application:tablet>sign-up:tablet>testimonies:tablet>donate:tablet>thanks:tablet>retry:tablet>products:index:contact-us:courses:about-us:what-we-believe-:testimonies:doctrine:bio:application:donate:sign-up:course-description:thank-you:thanks:retry:products:live---media:phone>media---live:tablet>live---media"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>thank-you:phone>about:phone>bio:phone>contact:phone>doctrine:phone>beliefs:phone>courses:phone>studies:phone>apply:phone>sign-up:phone>testimony:phone>give:phone>thanks:phone>retry:phone>products:tablet>index:tablet>thank-you:tablet>about-us:tablet>bio:tablet>contact-us:tablet>doctrine:tablet>what-we-believe-:tablet>courses:tablet>course-description:tablet>application:tablet>sign-up:tablet>testimonies:tablet>donate:tablet>thanks:tablet>retry:tablet>products:index:contact-us:courses:about-us:what-we-believe-:testimonies:doctrine:bio:application:donate:sign-up:course-description:thank-you:thanks:retry:products:live---media:phone>media---live:tablet>live---media"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>thank-you:phone>about:phone>bio:phone>contact:phone>doctrine:phone>beliefs:phone>courses:phone>studies:phone>apply:phone>sign-up:phone>testimony:phone>give:phone>thanks:phone>retry:phone>products:tablet>index:tablet>thank-you:tablet>about-us:tablet>bio:tablet>contact-us:tablet>doctrine:tablet>what-we-believe-:tablet>courses:tablet>course-description:tablet>application:tablet>sign-up:tablet>testimonies:tablet>donate:tablet>thanks:tablet>retry:tablet>products:index:contact-us:courses:about-us:what-we-believe-:testimonies:doctrine:bio:application:donate:sign-up:course-description:thank-you:thanks:retry:products:live---media:phone>media---live:tablet>live---media"/>
+    <file name="museconfig.js" crc="128606099" ref="phone>index:phone>thank-you:phone>about:phone>bio:phone>contact:phone>doctrine:phone>beliefs:phone>courses:phone>studies:phone>apply:phone>sign-up:phone>testimony:phone>give:phone>thanks:phone>retry:phone>products:tablet>index:tablet>thank-you:tablet>about-us:tablet>bio:tablet>contact-us:tablet>doctrine:tablet>what-we-believe-:tablet>courses:tablet>course-description:tablet>application:tablet>sign-up:tablet>testimonies:tablet>donate:tablet>thanks:tablet>retry:tablet>products:index:contact-us:courses:about-us:what-we-believe-:testimonies:doctrine:bio:application:donate:sign-up:course-description:thank-you:thanks:retry:products:live---media:phone>media---live:tablet>live---media"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>thank-you:phone>about:phone>bio:phone>contact:phone>doctrine:phone>beliefs:phone>courses:phone>studies:phone>apply:phone>sign-up:phone>testimony:phone>give:phone>thanks:phone>retry:phone>products:tablet>index:tablet>thank-you:tablet>about-us:tablet>bio:tablet>contact-us:tablet>doctrine:tablet>what-we-believe-:tablet>courses:tablet>course-description:tablet>application:tablet>sign-up:tablet>testimonies:tablet>donate:tablet>thanks:tablet>retry:tablet>products:index:contact-us:courses:about-us:what-we-believe-:testimonies:doctrine:bio:application:donate:sign-up:course-description:thank-you:thanks:retry:products:live---media:phone>media---live:tablet>live---media"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:phone>thank-you:phone>about:phone>bio:phone>contact:phone>doctrine:phone>beliefs:phone>courses:phone>studies:phone>apply:phone>sign-up:phone>testimony:phone>give:phone>thanks:phone>retry:phone>products:tablet>index:tablet>thank-you:tablet>about-us:tablet>bio:tablet>contact-us:tablet>doctrine:tablet>what-we-believe-:tablet>courses:tablet>course-description:tablet>application:tablet>sign-up:tablet>testimonies:tablet>donate:tablet>thanks:tablet>retry:tablet>products:index:contact-us:courses:about-us:what-we-believe-:testimonies:doctrine:bio:application:donate:sign-up:course-description:thank-you:thanks:retry:products:live---media:phone>media---live:tablet>live---media"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>thank-you:phone>about:phone>bio:phone>contact:phone>doctrine:phone>beliefs:phone>courses:phone>studies:phone>apply:phone>sign-up:phone>testimony:phone>give:phone>thanks:phone>retry:phone>products:tablet>index:tablet>thank-you:tablet>about-us:tablet>bio:tablet>contact-us:tablet>doctrine:tablet>what-we-believe-:tablet>courses:tablet>course-description:tablet>application:tablet>sign-up:tablet>testimonies:tablet>donate:tablet>thanks:tablet>retry:tablet>products:index:contact-us:courses:about-us:what-we-believe-:testimonies:doctrine:bio:application:donate:sign-up:course-description:thank-you:thanks:retry:products:live---media:phone>media---live:tablet>live---media"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>thank-you:phone>about:phone>bio:phone>contact:phone>doctrine:phone>beliefs:phone>courses:phone>studies:phone>apply:phone>sign-up:phone>testimony:phone>give:phone>thanks:phone>retry:phone>products:tablet>index:tablet>thank-you:tablet>about-us:tablet>bio:tablet>contact-us:tablet>doctrine:tablet>what-we-believe-:tablet>courses:tablet>course-description:tablet>application:tablet>sign-up:tablet>testimonies:tablet>donate:tablet>thanks:tablet>retry:tablet>products:index:contact-us:courses:about-us:what-we-believe-:testimonies:doctrine:bio:application:donate:sign-up:course-description:thank-you:thanks:retry:products:live---media:phone>media---live:tablet>live---media"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>contact:phone>sign-up:tablet>contact-us:tablet>sign-up:contact-us:sign-up"/>
+    <file name="form_check.php" crc="4050423521" ref="phone>contact:sign-up"/>
+    <file name="form_process.php" crc="3946589668" ref="phone>contact:sign-up"/>
+    <file name="form-u7785.php" crc="4154261275" ref="phone>contact"/>
+    <file name="form-u7960.php" crc="472586969" ref="phone>sign-up"/>
+    <file name="form-u5847.php" crc="473170210" ref="tablet>contact-us"/>
+    <file name="form-u6039.php" crc="3803515022" ref="tablet>sign-up"/>
+    <file name="form-u1125.php" crc="52088316" ref="contact-us"/>
+    <file name="form-u2173.php" crc="4202132609" ref="sign-up"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="231729316" ref="phone>index:phone>media---live:tablet>contact-us:phone>products"/>
+    <file name="logo_400x150.jpg" crc="4214656797" seo="true" ref="phone>index:phone>thank-you:phone>about:phone>bio:phone>contact:phone>doctrine:phone>beliefs:phone>courses:phone>studies:phone>apply:phone>sign-up:phone>testimony:phone>give:phone>thanks:phone>retry:phone>products:tablet>index:tablet>thank-you:tablet>about-us:tablet>bio:tablet>contact-us:tablet>doctrine:tablet>what-we-believe-:tablet>courses:tablet>course-description:tablet>application:tablet>sign-up:tablet>testimonies:tablet>donate:tablet>thanks:tablet>retry:tablet>products:phone>media---live:tablet>live---media">
+      <caption webpage="what-we-believe-" alt=""/>
+      <caption webpage="testimony" alt=""/>
+      <caption webpage="beliefs" alt=""/>
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="course-description" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="doctrine" alt=""/>
+      <caption webpage="doctrine" alt=""/>
+      <caption webpage="media---live" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="studies" alt=""/>
+      <caption webpage="retry" alt=""/>
+      <caption webpage="retry" alt=""/>
+      <caption webpage="live---media" alt=""/>
+      <caption webpage="live---media" alt=""/>
+      <caption webpage="thank-you" alt=""/>
+      <caption webpage="thank-you" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="testimonies" alt=""/>
+      <caption webpage="give" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="apply" alt=""/>
+      <caption webpage="application" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="phone>index:tablet>index:index:phone>media---live:tablet>live---media:phone>products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="media---live" alt=""/>
+      <caption webpage="media---live" alt=""/>
+      <caption webpage="media---live" alt=""/>
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="live---media" alt=""/>
+      <caption webpage="live---media" alt=""/>
+      <caption webpage="live---media" alt=""/>
+      <caption webpage="live---media" alt=""/>
+      <caption webpage="live---media" alt=""/>
+      <caption webpage="live---media" alt=""/>
+    </file>
+    <file name="arrowmenuright.png" crc="41086373" ref="phone>index:tablet>index:index:phone>media---live:tablet>live---media:phone>products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="media---live" alt=""/>
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="live---media" alt=""/>
+      <caption webpage="live---media" alt=""/>
+    </file>
+    <file name="u7684-4.png" crc="125637754" ref="phone>index"/>
+    <file name="u7683-4.png" crc="374621032" ref="phone>index"/>
+    <file name="ltilogo with fades302x297.jpg" crc="4160230177" seo="true" ref="phone>index:phone>media---live:phone>products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="media---live" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="001-book-cover-front-v3-1.jpg" crc="7983605" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7693-4.png" crc="132530436" ref="phone>index"/>
+    <file name="call to action-u7691.png" crc="101972671" ref="phone>index"/>
+    <file name="u7689-4.png" crc="3891122654" ref="phone>index"/>
+    <file name="u7690-4.png" crc="4294211984" ref="phone>index"/>
+    <file name="freecorrespcourse_image104x92.jpg" crc="415916600" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="students piling up.jpg" crc="3783786007" seo="true" ref="phone>index:phone>thank-you:phone>about:phone>doctrine:phone>courses:phone>give:phone>thanks:phone>retry:phone>products:tablet>index:tablet>thank-you:tablet>about-us:tablet>doctrine:index:courses:about-us:doctrine:donate:thank-you:thanks:retry:live---media:phone>media---live:tablet>live---media">
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="live---media" alt=""/>
+      <caption webpage="doctrine" alt=""/>
+      <caption webpage="media---live" alt=""/>
+      <caption webpage="give" alt=""/>
+      <caption webpage="retry" alt=""/>
+      <caption webpage="thank-you" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="ltilogo.jpg" crc="384985026" seo="true" ref="phone>index:phone>thank-you:phone>about:phone>doctrine:phone>courses:phone>give:phone>thanks:phone>retry:phone>products:tablet>index:tablet>thank-you:tablet>about-us:tablet>doctrine:index:courses:about-us:doctrine:donate:thank-you:thanks:retry:live---media:phone>media---live:tablet>live---media">
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="live---media" alt=""/>
+      <caption webpage="doctrine" alt=""/>
+      <caption webpage="media---live" alt=""/>
+      <caption webpage="give" alt=""/>
+      <caption webpage="retry" alt=""/>
+      <caption webpage="thank-you" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="facebook-logo-square-webtreatsetc.png" crc="391670165" seo="true" ref="phone>index:phone>thank-you:phone>about:phone>bio:phone>contact:phone>doctrine:phone>beliefs:phone>courses:phone>studies:phone>apply:phone>sign-up:phone>testimony:phone>give:phone>thanks:phone>retry:phone>products:tablet>index:tablet>thank-you:tablet>about-us:tablet>bio:tablet>contact-us:tablet>doctrine:tablet>what-we-believe-:tablet>courses:tablet>course-description:tablet>application:tablet>sign-up:tablet>testimonies:tablet>donate:tablet>thanks:tablet>retry:tablet>products:index:contact-us:courses:about-us:what-we-believe-:testimonies:doctrine:bio:application:donate:sign-up:course-description:thank-you:thanks:retry:products:live---media:phone>media---live:tablet>live---media">
+      <caption webpage="thank-you" alt="Pastor Gary On Facebook"/>
+      <caption webpage="media---live" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="beliefs" alt=""/>
+      <caption webpage="thanks" alt="Pastor Gary On Facebook"/>
+      <caption webpage="apply" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="donate" alt="Pastor Gary On Facebook"/>
+      <caption webpage="studies" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="courses" alt="Pastor Gary On Facebook"/>
+      <caption webpage="live---media" alt="Pastor Gary On Facebook"/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt="Pastor Gary On Facebook"/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="give" alt=""/>
+      <caption webpage="about-us" alt="Pastor Gary On Facebook"/>
+      <caption webpage="testimony" alt=""/>
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="retry" alt="Pastor Gary On Facebook"/>
+      <caption webpage="testimonies" alt=""/>
+      <caption webpage="course-description" alt=""/>
+      <caption webpage="doctrine" alt="Pastor Gary On Facebook"/>
+      <caption webpage="what-we-believe-" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="b-master-favicon.ico" crc="4227681010" ref="phone>bio:phone>contact:testimonies:application:sign-up"/>
+    <file name="ltilogo with fades254x250.jpg" crc="281276647" seo="true" ref="phone>bio:phone>contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="bio" alt=""/>
+    </file>
+    <file name="gary_picture.jpg" crc="351713385" seo="true" ref="phone>bio:tablet>bio:bio">
+      <caption webpage="bio" alt=""/>
+    </file>
+    <file name="u7878-13.png" crc="4067953958" ref="phone>doctrine"/>
+    <file name="gary_picture l.jpg" crc="3982958972" seo="true" ref="phone>doctrine:tablet>doctrine:doctrine">
+      <caption webpage="doctrine" alt=""/>
+    </file>
+    <file name="u8118-5.png" crc="83634715" ref="phone>testimony"/>
+    <file name="u13791-5.png" crc="344676917" ref="phone>products"/>
+    <file name="mind detoxify.jpg" crc="3971212042" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="trust.jpg" crc="231569821" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="why god.jpg" crc="3930986203" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="success cover.jpg" crc="4258798015" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="the gift of repentance.jpg" crc="4238737170" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="what to do front.jpg" crc="3807073206" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="staying.jpg" crc="3852779483" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="prosper.jpg" crc="4218947313" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="secret.jpg" crc="129545917" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="fire.jpg" crc="4271290541" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="godwill.jpg" crc="367775012" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="jehovah too much.jpg" crc="20144317" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="you are rich.jpg" crc="247183801" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="hearts.jpg" crc="4224110799" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="the blood covenant.jpg" crc="342554920" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="the integrity of the word.jpg" crc="3899850212" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="the gift of repentance2.jpg" crc="3833639945" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="the principles of faith.jpg" crc="3819733759" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="the authority of the believer.jpg" crc="4261783411" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="healing dynamics.jpg" crc="320040083" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="spirit, soul - body.jpg" crc="23552509" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="the power of prayer.jpg" crc="4181617308" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="the supernatural.jpg" crc="67304774" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="living to give.jpg" crc="3850090656" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="the christian family.jpg" crc="26568902" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="the wisdom of god.jpg" crc="3873757655" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="the kingdom of god.jpg" crc="3982716271" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="the fivefold ministry.jpg" crc="4030062266" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="church government.jpg" crc="4205089419" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="church administration.jpg" crc="401369572" seo="true" ref="phone>products:tablet>products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="excellence in ministry.jpg" crc="4205256897" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="ministerial ethics.jpg" crc="3890263027" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="worship.jpg" crc="3787019258" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="church membership.jpg" crc="97281471" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="discipleship.jpg" crc="322124204" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="missions.jpg" crc="150466174" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="the book of revelation.jpg" crc="3946709228" seo="true" ref="phone>products:tablet>products:products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="ltilogo with fades.jpg" crc="200996075" seo="true" ref="tablet>index:tablet>thank-you:tablet>about-us:tablet>doctrine:contact-us:what-we-believe-:bio:sign-up:course-description:tablet>live---media">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="thank-you" alt=""/>
+      <caption webpage="doctrine" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="course-description" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="live---media" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="what-we-believe-" alt=""/>
+    </file>
+    <file name="freecorrespcourse_image.jpg" crc="4232052939" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5355-4.png" crc="4034234371" ref="tablet>index"/>
+    <file name="u5354-4.png" crc="484829301" ref="tablet>index"/>
+    <file name="u5362-4.png" crc="132530436" ref="tablet>index"/>
+    <file name="call to action-u5363.png" crc="101972671" ref="tablet>index"/>
+    <file name="u5361-4.png" crc="3891122654" ref="tablet>index"/>
+    <file name="u5360-4.png" crc="4294211984" ref="tablet>index"/>
+    <file name="age range students edited with fade.jpg" crc="4168489767" seo="true" ref="tablet>index:tablet>thank-you:tablet>about-us:tablet>doctrine:index:courses:about-us:doctrine:donate:thank-you:thanks:retry:live---media:tablet>live---media">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="doctrine" alt=""/>
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="live---media" alt=""/>
+      <caption webpage="retry" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="thank-you" alt=""/>
+    </file>
+    <file name="u5941-15.png" crc="352465525" ref="tablet>doctrine"/>
+    <file name="u6197-5.png" crc="4023276276" ref="tablet>testimonies"/>
+    <file name="u12925-5.png" crc="113544777" ref="tablet>products"/>
+    <file name="freecorrespcourse_image166x147.jpg" crc="3759922883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1255-4.png" crc="3778695833" ref="index"/>
+    <file name="u1335-4.png" crc="132530436" ref="index"/>
+    <file name="call to action-u1341.png" crc="101972671" ref="index"/>
+    <file name="u1356-4.png" crc="3891122654" ref="index"/>
+    <file name="u1937-4.png" crc="4294211984" ref="index"/>
+    <file name="u1997-15.png" crc="4097937901" ref="doctrine"/>
+    <file name="u10771-5.png" crc="123497879" ref="products"/>
+    <file name="fresh manna.jpg" crc="64874651" seo="true" ref="products:phone>products:tablet>products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="church administration2.jpg" crc="3834733890" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_b-master.css" crc="493802692" ref="tablet>course-description:tablet>application:tablet>sign-up:tablet>testimonies:tablet>donate:tablet>thanks:tablet>retry:tablet>bio:tablet>products:tablet>contact-us:tablet>what-we-believe-:tablet>courses"/>
+      <file name="master_a-master.css" crc="3762681031" ref="tablet>thank-you:tablet>index:tablet>about-us:tablet>doctrine:tablet>live---media"/>
+      <file name="thank-you.css" crc="21112768" ref="tablet>thank-you"/>
+      <file name="course-description.css" crc="339608910" ref="tablet>course-description"/>
+      <file name="application.css" crc="4024831203" ref="tablet>application"/>
+      <file name="sign-up.css" crc="4216251468" ref="tablet>sign-up"/>
+      <file name="index.css" crc="3846260152" ref="tablet>index"/>
+      <file name="testimonies.css" crc="3948333663" ref="tablet>testimonies"/>
+      <file name="donate.css" crc="244926688" ref="tablet>donate"/>
+      <file name="thanks.css" crc="427073288" ref="tablet>thanks"/>
+      <file name="retry.css" crc="4153515710" ref="tablet>retry"/>
+      <file name="about-us.css" crc="3918154112" ref="tablet>about-us"/>
+      <file name="bio.css" crc="4256589766" ref="tablet>bio"/>
+      <file name="products.css" crc="3805995600" ref="tablet>products"/>
+      <file name="contact-us.css" crc="383204248" ref="tablet>contact-us"/>
+      <file name="what-we-believe-.css" crc="516325621" ref="tablet>what-we-believe-"/>
+      <file name="doctrine.css" crc="4023610066" ref="tablet>doctrine"/>
+      <file name="courses.css" crc="104657254" ref="tablet>courses"/>
+      <file name="live---media.css" crc="472360874" ref="tablet>live---media"/>
+    </folder>
+    <file name="index.html" crc="3954503019" seo="true" mt="1653420346141" redirect="true"/>
+    <file name="thank-you.html" crc="146634025" seo="true" mt="1617126525768" redirect="true"/>
+    <file name="about-us.html" crc="3812847704" seo="true" mt="1617126525768" redirect="true"/>
+    <file name="bio.html" crc="207000690" seo="true" mt="1617125548691" redirect="true"/>
+    <file name="contact-us.html" crc="30227274" seo="true" mt="1652720837310" redirect="true"/>
+    <file name="doctrine.html" crc="492877415" seo="true" mt="1617126525768" redirect="true"/>
+    <file name="what-we-believe-.html" crc="3937317576" seo="true" mt="1617125548691" redirect="true"/>
+    <file name="courses.html" crc="3815353571" seo="true" mt="1617125548691" redirect="true"/>
+    <file name="course-description.html" crc="98309858" seo="true" mt="1617125548691" redirect="true"/>
+    <file name="application.html" crc="3997112189" seo="true" mt="1617125548691" redirect="true"/>
+    <file name="sign-up.html" crc="3993127800" seo="true" mt="1652720837315" redirect="true"/>
+    <file name="testimonies.html" crc="3926394075" seo="true" mt="1617125548691" redirect="true"/>
+    <file name="donate.html" crc="3998347295" seo="true" mt="1617125548691" redirect="true"/>
+    <file name="thanks.html" crc="494263718" seo="true" mt="1617125548691" redirect="true"/>
+    <file name="retry.html" crc="219316731" seo="true" mt="1617125548691" redirect="true"/>
+    <file name="products.html" crc="4140276914" seo="true" mt="1678378524048" redirect="true"/>
+    <file name="live---media.html" crc="4116710389" seo="true" mt="1641326830531" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="413849642" ref="phone>thanks:phone>about:phone>products:phone>retry:phone>doctrine:phone>courses:phone>give:phone>index:phone>thank-you:phone>media---live"/>
+      <file name="master_b-master.css" crc="3962983618" ref="phone>bio:phone>contact:phone>beliefs:phone>studies:phone>apply:phone>sign-up:phone>testimony"/>
+      <file name="thanks.css" crc="323573375" ref="phone>thanks"/>
+      <file name="about.css" crc="60305336" ref="phone>about"/>
+      <file name="products.css" crc="4084626710" ref="phone>products"/>
+      <file name="retry.css" crc="4100095734" ref="phone>retry"/>
+      <file name="bio.css" crc="3799505705" ref="phone>bio"/>
+      <file name="contact.css" crc="3935561324" ref="phone>contact"/>
+      <file name="beliefs.css" crc="3927874298" ref="phone>beliefs"/>
+      <file name="doctrine.css" crc="4257910901" ref="phone>doctrine"/>
+      <file name="courses.css" crc="332694692" ref="phone>courses"/>
+      <file name="studies.css" crc="3928609548" ref="phone>studies"/>
+      <file name="apply.css" crc="243930215" ref="phone>apply"/>
+      <file name="sign-up.css" crc="87787319" ref="phone>sign-up"/>
+      <file name="testimony.css" crc="236749932" ref="phone>testimony"/>
+      <file name="give.css" crc="411183592" ref="phone>give"/>
+      <file name="index.css" crc="55471955" ref="phone>index"/>
+      <file name="thank-you.css" crc="3767715085" ref="phone>thank-you"/>
+      <file name="media---live.css" crc="4223713501" ref="phone>media---live"/>
+    </folder>
+    <file name="index.html" crc="348433436" seo="true" mt="1653420346190" redirect="true"/>
+    <file name="thank-you.html" crc="3784642612" seo="true" mt="1615485663601" redirect="true"/>
+    <file name="about.html" crc="4270593953" seo="true" mt="1615485663601" redirect="true"/>
+    <file name="bio.html" crc="3857667009" seo="true" mt="1615485663603" redirect="true"/>
+    <file name="contact.html" crc="451657231" seo="true" mt="1652720837314" redirect="true"/>
+    <file name="doctrine.html" crc="298159771" seo="true" mt="1615485663601" redirect="true"/>
+    <file name="beliefs.html" crc="382222634" seo="true" mt="1615485663603" redirect="true"/>
+    <file name="courses.html" crc="4067253017" seo="true" mt="1615485663601" redirect="true"/>
+    <file name="studies.html" crc="4270287477" seo="true" mt="1615485663603" redirect="true"/>
+    <file name="apply.html" crc="4136428672" seo="true" mt="1615485663603" redirect="true"/>
+    <file name="sign-up.html" crc="4119633396" seo="true" mt="1652720837314" redirect="true"/>
+    <file name="testimony.html" crc="328372007" seo="true" mt="1615485663603" redirect="true"/>
+    <file name="give.html" crc="3984964510" seo="true" mt="1615485663601" redirect="true"/>
+    <file name="thanks.html" crc="3807205548" seo="true" mt="1615485663601" redirect="true"/>
+    <file name="retry.html" crc="3958597201" seo="true" mt="1615485663601" redirect="true"/>
+    <file name="products.html" crc="3913479251" seo="true" mt="1678378524042" redirect="true"/>
+    <file name="media---live.html" crc="531988744" seo="true" mt="1641326848822" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="477863959" seo="true" mt="1653420346215" redirect="true"/>
+  <file name="contact-us.html" crc="3854864847" seo="true" mt="1652720837312" redirect="true"/>
+  <file name="courses.html" crc="3811930337" seo="true" mt="1652719024879" redirect="true"/>
+  <file name="about-us.html" crc="4122809256" seo="true" mt="1652719941532" redirect="true"/>
+  <file name="what-we-believe-.html" crc="4055454423" seo="true" mt="1652719107312" redirect="true"/>
+  <file name="testimonies.html" crc="3981667933" seo="true" mt="1653421637709" redirect="true"/>
+  <file name="doctrine.html" crc="475754594" seo="true" mt="1652719024879" redirect="true"/>
+  <file name="bio.html" crc="413317629" seo="true" mt="1652719383199" redirect="true"/>
+  <file name="application.html" crc="477086447" seo="true" mt="1678465580649" redirect="true"/>
+  <file name="donate.html" crc="4234676913" seo="true" mt="1652719024879" redirect="true"/>
+  <file name="sign-up.html" crc="3797661964" seo="true" mt="1678385427633" redirect="true"/>
+  <file name="course-description.html" crc="3874959" seo="true" mt="1652719107312" redirect="true"/>
+  <file name="thank-you.html" crc="381547917" seo="true" mt="1652719024879" redirect="true"/>
+  <file name="thanks.html" crc="59983086" seo="true" mt="1652720221106" redirect="true"/>
+  <file name="retry.html" crc="461333284" seo="true" mt="1652719024879" redirect="true"/>
+  <file name="products.html" crc="168179813" seo="true" mt="1678378519978" redirect="true"/>
+  <file name="live---media.html" crc="3990087839" seo="true" mt="1652719024879" redirect="true"/>
+</manifest>
