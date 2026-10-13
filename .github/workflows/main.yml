@@ -19,3 +19,4 @@ jobs:
         server: northernit.biz
         username: paul@northernit.biz
         password: ${{ secrets.ftp_password }}
+        server-dir: /leadershiptraininginstitute.org
