@@ -1,0 +1,649 @@
+@media screen and (max-width: 960px) {
+  html,
+  body {
+    min-width: 0;
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  #page {
+    width: 100% !important;
+    max-width: 860px !important;
+    min-width: 0 !important;
+    min-height: 0 !important;
+    height: auto !important;
+    margin: 0 auto !important;
+    padding: 0 24px 32px !important;
+    overflow: visible !important;
+  }
+
+  #page .clearfix {
+    height: auto !important;
+    min-height: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  #page .colelem,
+  #page .grpelem {
+    position: relative !important;
+    top: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    left: auto !important;
+    float: none !important;
+    clear: both !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 auto 18px !important;
+    box-sizing: border-box !important;
+  }
+
+  #page img {
+    display: block;
+    width: auto !important;
+    max-width: 100% !important;
+    max-height: 320px !important;
+    height: auto !important;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  #page img.grpelem {
+    width: auto !important;
+  }
+
+  #page .clip_frame {
+    position: relative !important;
+    top: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    left: auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    overflow: visible !important;
+    margin: 0 auto 18px !important;
+    text-align: center;
+  }
+
+  #page #u1419 {
+    display: block !important;
+    margin-top: 20px !important;
+  }
+
+  #page #u1422-6 {
+    display: block !important;
+    margin-top: 14px !important;
+  }
+
+  #page #pu2356 > #u2356 {
+    grid-column: 1 / -1;
+    justify-self: center;
+    width: 48% !important;
+  }
+
+  #page .clip_frame img {
+    max-height: 320px !important;
+  }
+
+  #page .browser_width {
+    display: block !important;
+    position: relative !important;
+    left: auto !important;
+    right: auto !important;
+    width: calc(100% + 48px) !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin-left: -24px !important;
+  }
+
+  #page .browser_width > * {
+    position: relative !important;
+    top: auto !important;
+    right: auto !important;
+    left: auto !important;
+    width: 100% !important;
+    height: auto !important;
+    min-height: 0 !important;
+  }
+
+  #page .browser_width > * > [id$="_align_to_page"] {
+    width: 100% !important;
+    max-width: 860px !important;
+    margin: 0 auto !important;
+    padding-right: 24px !important;
+    padding-left: 24px !important;
+    box-sizing: border-box !important;
+  }
+
+  #page > .browser_width:first-child {
+    z-index: 100;
+    margin-bottom: 24px !important;
+  }
+
+  #page > .browser_width:first-child > * > * {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    padding-top: 14px !important;
+    padding-bottom: 14px !important;
+  }
+
+  #page > .browser_width:first-child #u157 {
+    background: transparent !important;
+  }
+
+  #page > .browser_width:first-child .grpelem {
+    width: 100% !important;
+    margin: 0 auto !important;
+  }
+
+  #page > .browser_width:first-child #u120-4,
+  #page > .browser_width:first-child #u1606-4 {
+    font-size: clamp(24px, 5vw, 40px) !important;
+    line-height: 1.1 !important;
+    letter-spacing: -0.04em !important;
+    text-align: center !important;
+  }
+
+  #page #u1606-4 {
+    font-size: clamp(24px, 5vw, 34px) !important;
+    line-height: 1.1 !important;
+    letter-spacing: -0.04em !important;
+    text-align: center !important;
+  }
+
+  #page #pu1606-4 {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 24px !important;
+  }
+
+  #page #pu1606-4 > .grpelem {
+    width: 100% !important;
+    margin: 0 !important;
+  }
+
+  #page #u1542 {
+    background: transparent !important;
+  }
+
+  #page .MenuBar {
+    display: grid !important;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 6px;
+    grid-auto-rows: minmax(42px, auto);
+    align-items: stretch;
+    width: 100% !important;
+    margin: 0 !important;
+  }
+
+  #page .MenuBar:after {
+    display: none !important;
+  }
+
+  #page .MenuBar .MenuItemContainer {
+    display: block !important;
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    float: none !important;
+    width: auto !important;
+    min-width: 0 !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+  }
+
+  #page .MenuBar .grpelem,
+  #page .MenuBar .colelem {
+    width: auto !important;
+    clear: none !important;
+    margin: 0 !important;
+  }
+
+  #page .MenuBar .MenuItem {
+    display: block;
+    width: 100% !important;
+    min-height: 0 !important;
+    padding: 9px 8px !important;
+    border-radius: 3px;
+    background: #8c6239 !important;
+    color: #fff !important;
+    white-space: normal;
+  }
+
+  #page .MenuBar .MenuItemLabel {
+    display: block;
+    position: static !important;
+    width: 100% !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    font-size: 14px !important;
+    line-height: 1.25 !important;
+    letter-spacing: 0 !important;
+    text-align: center !important;
+    white-space: normal;
+  }
+
+  #page .MenuBar .MenuItemLabel p {
+    font-size: inherit !important;
+    line-height: inherit !important;
+  }
+
+  #page .MenuBar .SubMenu {
+    position: static !important;
+    top: auto !important;
+    left: auto !important;
+    display: block !important;
+    width: 100% !important;
+  }
+
+  #page .MenuBar .SubMenu .MenuItem {
+    padding: 6px 4px !important;
+    border: 1px solid #d7cabc;
+    border-radius: 0;
+    background: #fff !important;
+    color: #463523 !important;
+  }
+
+  #page .MenuBar .SubMenu .MenuItemLabel,
+  #page .MenuBar .SubMenu .MenuItemLabel p {
+    color: #463523 !important;
+    font-size: 12px !important;
+    line-height: 1.25 !important;
+    text-align: center !important;
+  }
+
+  #page .MenuBar .SubMenuView {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  #page .MenuBar .SubMenu .MenuItem {
+    padding: 6px 10px !important;
+  }
+
+  #page .verticalspacer {
+    display: none !important;
+  }
+
+  #page #ppu1606-4 {
+    padding-bottom: 48px !important;
+  }
+
+  #page [id^="pu"]:has(> #u2691-12-wrapper) {
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px 20px;
+    width: 100% !important;
+    height: auto !important;
+    margin: 24px 0 0 !important;
+    padding: 22px 18px !important;
+    box-sizing: border-box !important;
+    background: #754c24;
+  }
+
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2691-12-wrapper,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2692-6-wrapper,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2690-4-wrapper {
+    position: relative !important;
+    top: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    left: auto !important;
+    width: auto !important;
+    height: auto !important;
+    margin: 0 !important;
+    transform: none !important;
+  }
+
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2690-4-wrapper {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    text-align: center;
+  }
+
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2691-12-wrapper {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2692-6-wrapper {
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2691-12-wrapper,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2692-6-wrapper,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2690-4-wrapper {
+    font-size: 12px !important;
+    line-height: 1.4 !important;
+  }
+
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2691-12-wrapper *,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2692-6-wrapper *,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2690-4-wrapper * {
+    position: relative !important;
+    top: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    left: auto !important;
+    width: auto !important;
+    height: auto !important;
+    margin: 0 !important;
+    transform: none !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+  }
+
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u10880-wrapper,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2678-wrapper,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) #u2688-wrapper,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2689-6-wrapper,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u2693-wrapper,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #menuu2901-wrapper,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u3608-wrapper,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u3610-4-wrapper,
+  #page [id^="pu"]:has(> #u2691-12-wrapper) > #u10877-wrapper {
+    display: none !important;
+  }
+
+  #page .clearfix.colelem:has(> .product-description) {
+    display: grid !important;
+    grid-template-columns: minmax(92px, 145px) minmax(0, 1fr);
+    grid-template-rows: min-content min-content min-content min-content;
+    align-items: start;
+    column-gap: 18px;
+    row-gap: 8px;
+    width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 18px 0 !important;
+    border-bottom: 1px solid #e2d8cf;
+    box-sizing: border-box !important;
+  }
+
+  #page .clearfix.colelem:has(> .product-description):after {
+    display: none !important;
+  }
+
+  #page .clearfix.colelem:has(> .product-description) > .shadow,
+  #page .clearfix.colelem:has(> .product-description) > .clip_frame {
+    grid-column: 1;
+    grid-row: 1 / span 4;
+    align-self: start;
+    justify-self: start;
+    width: 100% !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+  }
+
+  #page .clearfix.colelem:has(> .product-description) > .shadow img,
+  #page .clearfix.colelem:has(> .product-description) > .clip_frame img {
+    display: block;
+    width: auto !important;
+    max-width: 100% !important;
+    max-height: 220px !important;
+    height: auto !important;
+    margin: 0 auto !important;
+  }
+
+  #page .clearfix.colelem:has(> .product-description) > .product-title,
+  #page .clearfix.colelem:has(> .product-description) > .product-description,
+  #page .clearfix.colelem:has(> .product-description) > .size_fixed,
+  #page .clearfix.colelem:has(> .product-description) > :last-child {
+    grid-column: 2;
+    width: auto !important;
+    min-width: 0 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    text-align: left !important;
+  }
+
+  #page .clearfix.colelem:has(> .product-description) > .product-title {
+    grid-row: 1;
+    font-size: 17px !important;
+    line-height: 1.35 !important;
+  }
+
+  #page .clearfix.colelem:has(> .product-description) > .product-description {
+    grid-row: 2;
+    font-size: 14px !important;
+    line-height: 1.5 !important;
+  }
+
+  #page .clearfix.colelem:has(> .product-description) > :last-child {
+    grid-row: 3;
+    font-size: 14px !important;
+    line-height: 1.4 !important;
+  }
+
+  #page .clearfix.colelem:has(> .product-description) > .size_fixed {
+    grid-row: 4;
+    justify-self: start;
+  }
+
+  #page .clearfix.colelem:has(> .shadow):has(> [id^="ppu"]) {
+    display: grid !important;
+    grid-template-columns: minmax(92px, 145px) minmax(0, 1fr);
+    align-items: start;
+    column-gap: 18px;
+    width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 18px 0 !important;
+    border-bottom: 1px solid #e2d8cf;
+    box-sizing: border-box !important;
+  }
+
+  #page .clearfix.colelem:has(> .shadow):has(> [id^="ppu"]):after {
+    display: none !important;
+  }
+
+  #page .clearfix.colelem:has(> .shadow):has(> [id^="ppu"]) > .shadow {
+    grid-column: 1;
+    grid-row: 1;
+    justify-self: start;
+    width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+  }
+
+  #page .clearfix.colelem:has(> .shadow):has(> [id^="ppu"]) > .shadow img {
+    display: block;
+    width: auto !important;
+    max-width: 100% !important;
+    max-height: 220px !important;
+    height: auto !important;
+    margin: 0 auto !important;
+  }
+
+  #page .clearfix.colelem:has(> .shadow):has(> [id^="ppu"]) > [id^="ppu"] {
+    grid-column: 2;
+    grid-row: 1;
+    width: auto !important;
+    min-width: 0 !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  #page .clearfix.colelem:has(> .shadow):has(> [id^="ppu"]) > [id^="ppu"] .colelem {
+    width: 100% !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 0 8px !important;
+    text-align: left !important;
+  }
+
+  #page #u1791-8 {
+    margin-bottom: 48px !important;
+  }
+
+  #page input,
+  #page select,
+  #page textarea,
+  #page button {
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  #page input,
+  #page select,
+  #page textarea {
+    font-size: 16px;
+  }
+
+  #u168-4 {
+    text-align: center !important;
+  }
+
+  #u168-4 h2 {
+    font-size: clamp(26px, 4vw, 36px) !important;
+    line-height: 1.2 !important;
+  }
+
+  #u203-4 {
+    font-size: 16px !important;
+    line-height: 1.55 !important;
+    text-align: left !important;
+  }
+
+  #u647-17 {
+    padding: 14px !important;
+    font-size: 15px !important;
+    line-height: 1.45 !important;
+    text-align: center !important;
+  }
+
+  #u1280 img {
+    max-height: 280px !important;
+  }
+
+  #u1338-4,
+  #u3986-7 {
+    font-size: 17px !important;
+    line-height: 1.35 !important;
+    text-align: center !important;
+  }
+
+  #page #u997-6 {
+    width: fit-content !important;
+    max-width: 100% !important;
+    padding: 10px 20px !important;
+    border-radius: 3px;
+    background: #8c6239;
+    color: #fff !important;
+    font-size: 15px !important;
+    line-height: 1.25 !important;
+    text-align: center !important;
+  }
+
+  #u1335-4_img,
+  #u1356-4_img,
+  #u1937-4_img {
+    max-width: min(100%, 210px) !important;
+    max-height: 56px !important;
+  }
+
+  #u1341 {
+    max-height: 64px !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #page {
+    padding: 0 16px 24px !important;
+  }
+
+  #page .browser_width {
+    width: calc(100% + 32px) !important;
+    margin-left: -16px !important;
+  }
+
+  #page .browser_width > * > [id$="_align_to_page"] {
+    padding-right: 16px !important;
+    padding-left: 16px !important;
+  }
+
+  #page > .browser_width:first-child {
+    margin-bottom: 16px !important;
+  }
+
+  #page > .browser_width:first-child #u120-4,
+  #page > .browser_width:first-child #u1606-4 {
+    font-size: clamp(22px, 7vw, 30px) !important;
+  }
+
+  #page .MenuBar .MenuItem {
+    padding: 7px 8px !important;
+  }
+
+  #page .MenuBar {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  #page img,
+  #page .clip_frame img {
+    max-height: 240px !important;
+  }
+
+  #page .clearfix.colelem:has(> .product-description) {
+    grid-template-columns: minmax(78px, 108px) minmax(0, 1fr);
+    column-gap: 12px;
+    row-gap: 6px;
+    padding: 14px 0 !important;
+  }
+
+  #page .clearfix.colelem:has(> .shadow):has(> [id^="ppu"]) {
+    grid-template-columns: minmax(78px, 108px) minmax(0, 1fr);
+    column-gap: 12px;
+    padding: 14px 0 !important;
+  }
+
+  #page .clearfix.colelem:has(> .product-description) > .shadow img,
+  #page .clearfix.colelem:has(> .product-description) > .clip_frame img,
+  #page .clearfix.colelem:has(> .shadow):has(> [id^="ppu"]) > .shadow img {
+    max-height: 170px !important;
+  }
+
+  #page .clearfix.colelem:has(> .product-description) > .product-title {
+    font-size: 15px !important;
+  }
+
+  #page .clearfix.colelem:has(> .product-description) > .product-description,
+  #page .clearfix.colelem:has(> .product-description) > :last-child {
+    font-size: 13px !important;
+  }
+
+  #page [id^="pu"]:has(> #u2691-12-wrapper) {
+    gap: 12px 14px;
+    margin-top: 32px !important;
+    padding: 20px 14px !important;
+  }
+
+  #u1280 img {
+    max-height: 220px !important;
+  }
+
+  #u203-4 {
+    font-size: 15px !important;
+  }
+
+  #u997-6 {
+    margin-right: auto !important;
+    margin-left: auto !important;
+  }
+}
