@@ -3,10 +3,10 @@
     var submenu = container.querySelector(":scope > .SubMenu");
     if (!submenu) {
       submenu = document.createElement("div");
-      submenu.className = "SubMenu MenuLevel1 clearfix";
+      submenu.className = "SubMenu MenuLevel1 clearfix responsive-menu-submenu";
 
       var list = document.createElement("ul");
-      list.className = "SubMenuView clearfix colelem";
+      list.className = "SubMenuView clearfix colelem responsive-menu-list";
       submenu.appendChild(list);
       container.appendChild(submenu);
     }
@@ -28,21 +28,19 @@
 
     var list = submenu.querySelector(".SubMenuView") || submenu;
     var listItem = document.createElement("li");
-    listItem.className = "MenuItemContainer clearfix colelem";
+    listItem.className =
+      "MenuItemContainer clearfix colelem responsive-menu-child-container";
 
     var link = document.createElement("a");
     link.className =
-      "nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem";
+      "nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem responsive-menu-child";
     link.href = href;
 
     var label = document.createElement("div");
-    label.className = "MenuItemLabel NoWrap clearfix grpelem";
-
-    var content = document.createElement("div");
+    label.className = "MenuItemLabel NoWrap clearfix";
     var paragraph = document.createElement("p");
     paragraph.textContent = labelText;
-    content.appendChild(paragraph);
-    label.appendChild(content);
+    label.appendChild(paragraph);
 
     link.appendChild(label);
     listItem.appendChild(link);
